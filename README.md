@@ -1,7 +1,6 @@
 # hotel-sales-analysis
-SETUP
-•	This project requires SQL server and PowerBI desktop
-•	We will work with the data provided by codebasics
+PURPOSE
+•	To unlock sales insights that are not visible before
 
 BUSINESS REQUEST
 
@@ -25,3 +24,6 @@ CREATE DASHBOARD USING POWERBI
 •	Line chart
 •	Bar graph
 •	cards
+
+END RESULT
+An automated dashboard providing quick and latest sales insights inorder to support driven decision making
